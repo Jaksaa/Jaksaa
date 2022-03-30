@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jaksaa
+- 👋 Hi, I’m Jakub
 - 👀 I’m interested in spending time in front of the computer as well as for fun like for working, apart of that: audiobooks, sports(swimming, riding bike), thriller and action moives :)
 - 🌱 I’m currently learning Python and also writing different projects from courses and internet.
 - 💞️ I’m looking to collaborate on anything related to python and cloud (still need some practice and learning)
